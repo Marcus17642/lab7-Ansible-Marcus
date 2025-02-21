@@ -11,4 +11,5 @@ ansible-lint playbook.yml
 
 ansible-playbook playbook.yml
 
-[lab7.png]
+
+![alt text](lab7.png)
