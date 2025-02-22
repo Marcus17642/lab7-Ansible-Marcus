@@ -1,4 +1,4 @@
-Marcus Su and Rafeel Geelani
+Marcus Su A01382732 and Rafeel Geelani A01364129
 
 # Create ssh key
 ssh-keygen -t ed25519 -f ~/.ssh/aws
